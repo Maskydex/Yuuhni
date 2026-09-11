@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+#presentacion, #opiniones, #cosas, #noSabe, #peque, #momentos, #porLas, #agra, #deseo, #debo, #men, #poema, #idolo {
+    background-color: bisque;
+}
